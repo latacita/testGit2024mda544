@@ -9,4 +9,8 @@
  01	clone
  02	editar bitacora.txt
  04	branch PrimeraRama + checkout PrimeraRama
+ 06	branch SegundaRama + checkout SegundaRama
  11	stash + checkout PrimeraRama
+ 13	checkout SegundaRama
+ 14	Recursiva porque no llega 
+ 15	Fast-forward porque está por detrás de master
