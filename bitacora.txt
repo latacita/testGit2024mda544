@@ -14,3 +14,6 @@
  02	editar bitacora.txt
  08	push origin SegundaRama
  09	checkout master
+ 26	tag PasosExtra
+ 27	checkout master
+ 28	cherry-pick PasosExtra
