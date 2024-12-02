@@ -7,4 +7,5 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
  01	clone
- 03	add + commit -m "Paso 03"
+ 02	editar bitacora.txt
+ 04	branch PrimeraRama + checkout PrimeraRama
