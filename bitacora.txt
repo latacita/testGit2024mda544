@@ -9,3 +9,4 @@
  01	clone
  02	editar bitacora.txt
  04	branch PrimeraRama + checkout PrimeraRama
+ 11	stash + checkout PrimeraRama
